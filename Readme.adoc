@@ -1,0 +1,10 @@
+
+== Resource Access
+* mirror of https://github.com/iRecursion/iRecursion.github.io
+
+[%autowidth,options="header",cols=">,<"]
+|===
+|Entry|Url
+|Usage|https://irecursion.github.io
+|AsciiDoc Source|https://gitee.com/iRecursion
+|===
